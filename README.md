@@ -1,1 +1,1 @@
-# SpeculoosWorld
+# Speculoos World
