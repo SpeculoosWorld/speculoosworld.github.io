@@ -1,4 +1,4 @@
-# Speculoos World
+# Speculoos World on Github
 
 ## Main projects
 
